@@ -1,0 +1,8 @@
+{
+ "headers": {
+   "/*": {
+     "X-Author": "aiden_pier",
+     "Access-Control-Allow-Origin": "*"
+   }
+ }
+}
